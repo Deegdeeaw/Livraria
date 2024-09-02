@@ -69,7 +69,7 @@ public class CalculadoraDeEstoque {
 
         livro.mostrarDetalhes();
 
-        System.out.println("TESTANDO GITHUB");
+        System.out.println("TESTANDO GITHUB");System.out.println("TESTANDO GITHUB");System.out.println("TESTANDO GITHUB");System.out.println("TESTANDO GITHUB");System.out.println("TESTANDO GITHUB");System.out.println("TESTANDO GITHUB");System.out.println("TESTANDO GITHUB");
 
 
     }
