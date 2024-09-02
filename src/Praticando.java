@@ -19,6 +19,7 @@ public class Praticando {
             System.out.printf("Livro com desconto: R$ %.2f" , livro.getValor());
         }
 
+        System.out.println("TESTE GITHUB");
 
     }
 }
